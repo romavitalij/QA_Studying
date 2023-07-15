@@ -9,3 +9,4 @@ File list:
 5) Test Plan uz-gov-ua 2-0.docx - The test plan of the site https://uz.gov.ua/ version 2.0.
 6) Test Case UZ.docx - The test case list for the site https://uz.gov.ua/ (SkillUp).
 7) Test Case 2-3 RegForm UZ.docx - The test case list for the registration form of the site https://uz.gov.ua/ (SkillUp).
+8) Check_list&Bug_reports 2-4.docx - The Check list with the bug reports in Jira of the site https://70p1h.sse.codesandbox.io/ (SkillUp)
