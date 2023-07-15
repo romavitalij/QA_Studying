@@ -14,3 +14,4 @@ File list:
 10) Postman HW07 2023-01-10 (success).jpg - Registration request in Postman https://uss.rozetka.com.ua/session/auth/signup-phone
 11) Check-list 180-RomanchenkoV.xlsx - The check list for QATestLab #1 (Site)
 12) Check-list 180-RomanchenkoV_HW_3.xlsx - The check list for QATestLab #1 (Functional: registration, login, cart)
+13) Test Rail_HW_5_04.jpg, Test Rail_HW_5_05.jpg, Test Rail_HW_5_06.jpg, Test Rail_HW_5_07.jpg - Practice in Test Rail (QATestLab)
