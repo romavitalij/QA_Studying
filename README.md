@@ -12,3 +12,5 @@ File list:
 8) Check_list&Bug_reports 2-4.docx - The Check list with the bug reports in Jira of the site https://70p1h.sse.codesandbox.io/ (SkillUp)
 9) Check-list Meest.xlsx - The Checklist of the Mobile App Testing (Meest.apk) (SkillUp)
 10) Postman HW07 2023-01-10 (success).jpg - Registration request in Postman https://uss.rozetka.com.ua/session/auth/signup-phone
+11) Check-list 180-RomanchenkoV.xlsx - The check list for QATestLab #1 (Site)
+12) Check-list 180-RomanchenkoV_HW_3.xlsx - The check list for QATestLab #1 (Functional: registration, login, cart)
