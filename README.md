@@ -16,3 +16,4 @@ File list:
 12) Check-list 180-RomanchenkoV_HW_3.xlsx - The check list for QATestLab #1 (Functional: registration, login, cart)
 13) Test Rail_HW_5_04.jpg, Test Rail_HW_5_05.jpg, Test Rail_HW_5_06.jpg, Test Rail_HW_5_07.jpg - Practice in Test Rail (QATestLab)
 14) Mobile_checklist_Romanchenko_(EN).xlsx - The check list for All Unit Converter & Tools.apk (QATestLab)
+15) Draft game bug reports for Mantis.docx - The bug reports of the game testing (HEADZ GO RACING) for Mantis 
